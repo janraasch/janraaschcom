@@ -45,3 +45,28 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.janraasch.com/:splat"
   force = true
   status = 301
+  
+[[redirects]]
+  from="http://www.janraasch.de/*" 
+  to="http://www.janraasch.com/:splat"
+  force = true
+  status = 301
+  
+[[redirects]]
+  from="https://www.janraasch.de/*" 
+  to="https://www.janraasch.com/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://janraasch.de/*" 
+  to="http://www.janraasch.com/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="https://janraasch.de/*" 
+  to="https://www.janraasch.com/:splat"
+  force = true
+  status = 301
+  
