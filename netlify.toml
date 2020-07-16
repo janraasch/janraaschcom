@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.55.6"
+HUGO_VERSION = "0.73.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -11,27 +11,27 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.55.6"
+HUGO_VERSION = "0.73.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.55.6"
+HUGO_VERSION = "0.73.0"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.55.6"
+HUGO_VERSION = "0.73.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-# Redirects and headers are GLOBAL for all builds – they do not get scoped to 
+# Redirects and headers are GLOBAL for all builds – they do not get scoped to
 # contexts no matter where you define them in the file.
-# For context-specific rules, use _headers or _redirects files, which are 
+# For context-specific rules, use _headers or _redirects files, which are
 # PER-DEPLOY.
 
 [[redirects]]
@@ -45,28 +45,27 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.janraasch.com/:splat"
   force = true
   status = 301
-  
-[[redirects]]
-  from="http://www.janraasch.de/*" 
-  to="http://www.janraasch.com/:splat"
-  force = true
-  status = 301
-  
-[[redirects]]
-  from="https://www.janraasch.de/*" 
-  to="https://www.janraasch.com/:splat"
-  force = true
-  status = 301
 
 [[redirects]]
-  from="http://janraasch.de/*" 
+  from="http://www.janraasch.de/*"
   to="http://www.janraasch.com/:splat"
   force = true
   status = 301
 
 [[redirects]]
-  from="https://janraasch.de/*" 
+  from="https://www.janraasch.de/*"
   to="https://www.janraasch.com/:splat"
   force = true
   status = 301
-  
+
+[[redirects]]
+  from="http://janraasch.de/*"
+  to="http://www.janraasch.com/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="https://janraasch.de/*"
+  to="https://www.janraasch.com/:splat"
+  force = true
+  status = 301
