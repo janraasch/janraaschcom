@@ -8,6 +8,7 @@ favicon:
     thirtytwo: images/yoga/favicon-32x32.png
     sixteen: images/yoga/favicon-16x16.png
 site_manifest: images/yoga/site.webmanifest
+images: ['images/yoga/share.png']
 menu:
     main:
         title: More Yoga!
