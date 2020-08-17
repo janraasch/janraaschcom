@@ -33,4 +33,4 @@ visual:
 
 Hey there, I'm Jan. I can help you with building [great software](software) and developing your [yoga practice](yoga).
 
-Let's [get in-touch](mailto:jan@janraasch.com).
+Let's [get in touch](mailto:jan@janraasch.com).

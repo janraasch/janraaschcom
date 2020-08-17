@@ -36,7 +36,7 @@ visual:
         # position: center center"
 ---
 
-Do not hesitate to [get in-touch](mailto:jan@janraasch.com).
+Do not hesitate to [get in touch](mailto:jan@janraasch.com).
 
 <!-- TODO: CV? Extra Page. Connect GitHub! XING?! Bisherige Kunden...
 
