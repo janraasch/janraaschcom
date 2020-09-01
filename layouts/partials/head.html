@@ -1,0 +1,38 @@
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- SEO -->
+<!-- Social & Open Graph -->
+<title>{{ .Title }}</title>
+{{ with .Site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
+{{ with .Site.Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
+{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}" />{{ end }}
+<meta name="robots" content="index, follow" />
+<meta name="referrer" content="always" />
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/schema.html" . }}
+
+<!-- Favicon -->
+{{ with or .Params.favicon.default .Site.Params.favicon.default }}<link rel="icon shortcut" type="image/png" href="{{ . | relURL }}" />{{ end }}
+{{ with or .Params.favicon.apple_touch_icon .Site.Params.favicon.apple_touch_icon }}<link rel="apple-touch-icon" sizes="180x180" href='{{ . | relURL }}'>{{ end }}
+{{ with or .Params.favicon.thirtytwo .Site.Params.favicon.thirtytwo}}<link rel="icon" type="image/png" sizes="32x32" href='{{ . | relURL }}'>{{ end }}
+{{ with or .Params.favicon.sixteen .Site.Params.favicon.sixteen }}<link rel="icon" type="image/png" sizes="16x16" href='{{ . | relURL }}'>{{ end }}
+<!-- https://developer.mozilla.org/en-US/docs/Web/Manifest -->
+{{ with or .Params.site_manifest .Site.Params.site_manifest }}<link rel="manifest" href="{{ . | relURL }}">{{ end }}
+
+<!-- Styles -->
+{{ $sass := resources.Get "sass/split.scss" }}
+{{ $style := $sass | resources.ToCSS }}
+<link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css" media="screen" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+<!-- Image Styles -->
+{{ if .Params.visual.image.enable }}
+  <style>
+  {{ if .Params.visual.image.file }}
+    .fs-split .split-image { background-image: url("{{ .Params.visual.image.file | absURL }}"); background-position: {{ if .Params.visual.image.position }}{{ .Params.visual.image.position }}{{ else }}center center{{ end }}; }
+  {{ end }}
+  </style>
+{{ end }}
