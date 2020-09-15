@@ -71,13 +71,13 @@ HUGO_ENABLEGITINFO = "true"
   status = 301
 
 [[redirects]]
-  from="https://janraasch.com/bubble-tea-in-jena.html"
+  from="https://www.janraasch.com/bubble-tea-in-jena.html"
   to="https://www.janraasch.com"
   force = true
   status = 301
  
 [[redirects]]
-  from="https://janraasch.com/thurmensa/*"
+  from="https://www.janraasch.com/thurmensa/*"
   to="https://www.janraasch.com/:splat"
   force = true
   status = 301
