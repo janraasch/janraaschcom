@@ -21,7 +21,7 @@ visual:
         muted: true
 ---
 
-Dear fellow yoga enthusiast, these days I teach a **90-minute [special](https://www.seelenlauscherei.de/programm/special-yoga)** & a **4-hour [workshop](https://www.seelenlauscherei.de/programm/workshops)** over at the wonderful [Seelenlauscherei](https://www.seelenlauscherei.de) **every month**. The studio is located right at the beach, so, if the wheather gods are kind, we can take dig our feet into the sand before, after and/or during the class.
+Dear fellow yoga enthusiast, these days I teach a **90-minute [special](https://www.seelenlauscherei.de/programm/special-yoga)** & a **4-hour [workshop](https://www.seelenlauscherei.de/programm/workshops)** over at the wonderful [Seelenlauscherei](https://www.seelenlauscherei.de) **every month**. The studio is located right at the beach, so, if the weather gods are kind, we can take dig our feet into the sand before, after and/or during the class.
 
 If you are interested in doing Yoga **online**, want to meet at a location more convenient for you, or have any other questions / ideas, do not hesitate to [get in touch](mailto:jan@janraasch.com).
 
