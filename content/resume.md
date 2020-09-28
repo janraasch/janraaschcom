@@ -96,9 +96,9 @@ This tech-stack enables me to deliver on bleeding edge web software, which can e
 
 I also have a couple of years of experience with Ruby on Rails applications.
 
-If we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing API and services to get focus on the problem at hand, rather than reinventing the wheel.
+When we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing APIs and services to get focus on the problem at hand, rather than reinventing the wheel.
 
-Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague Alex keeps getting into rhapsodies about the Live Views, so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskel or Elm (which I hear great things about from my friend Johannes.
+Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague [Alex][alex-url] keeps getting into [rhapsodies about the Live Views][alex-live-views-tweet-url], so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskell or Elm (which I hear great things about from my friend [Johannes][johannes-url]).
 
 So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
 
@@ -144,3 +144,7 @@ To sum this up we arrive at the following three guiding principles and one very 
 ---
 
 For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
+
+[johannes-url]: https://dividat.com/unternehmen
+[alex-url]: https://alex.flatter.io/
+[alex-live-views-tweet-url]: https://twitter.com/aflatter/status/1279473667634839552
