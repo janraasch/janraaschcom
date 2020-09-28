@@ -1,9 +1,17 @@
 baseURL = "https://www.janraasch.com/"
 languageCode = "en-US"
-title = "Jan Raasch - Software Developer & Yoga Teacher 🧘🏻‍♀️"
-theme="hugo-split-theme"
+title = "Jan Raasch, software developer, product enthusiast & yoga teacher"
+theme="hugo-bearblog"
 
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
 
 # Copyright
 copyright = "<a href='/imprint'>&copy;2020 Jan Raasch - Imprint & Privacy Policy</a>"
@@ -12,7 +20,7 @@ copyright = "<a href='/imprint'>&copy;2020 Jan Raasch - Imprint & Privacy Policy
 
   # Metadata for search engines and social sharing
   author = "Jan Raasch"
-  description = "Homepage of Jan Raasch - Software Developer & Yoga Teacher 🧘🏻‍♀️"
+  description = "Homepage of Jan Raasch: Software developer, product enthusiast & yoga teacher 🧘🏻‍♀️"
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.

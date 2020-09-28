@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jan Raasch - Yoga Teacher 🧘🏻‍♀️
 tagline: Yoga Teacher 🧘🏻‍♀️
 favicon:
@@ -9,11 +10,6 @@ favicon:
     sixteen: images/yoga/favicon-16x16.png
 site_manifest: images/yoga/site.webmanifest
 images: ['images/yoga/share.png']
-menu:
-    main:
-        title: More Yoga!
-        name: Yoga
-        weight: 20
 visual:
     video:
         enable: true
