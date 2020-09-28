@@ -9,18 +9,15 @@ menu:
 ---
 # Resume
 
-This page is currently under construction 👷🏻‍♂️ .
-
-I'm filling in the blanks as we speak 🤓.
-
-For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
-
 ## Content
 
 * [Work Experience](#work-experience)
+* [Skills - How / Process](#how--process)
+* [Skills - What / Tech-Stack](#what--tech-stack)
 * [Education](#education)
-* [Skills](#skills)
 * [Guiding Principles / Focus](guiding-principles--focus)
+
+For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
 
 ## Work Experience
 
@@ -60,7 +57,7 @@ _»t for translation. Professional translations into any world language.«_
 
 Role: Fullstack Web-Developer.
 
-At tolingo I head the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer. 
+At tolingo I head the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer.
 
 We were a small team of 2-3 engineers working on the internal software stack and the customer-facing web-shop.
 
@@ -77,6 +74,33 @@ Role: Frontend Web-Developer.
 ePages is my first professional engagement in the world of web software. I was eager to get out of the theoretical world of pure mathematics academia and I succeeded in picking up the tools and practices of web development very fast thanks to my strong basis in rational problem-solving.
 
 We moved the existing frontend stack to the leading frontend stack of the time. Also, I was part of a spear-heading team that led the way to an all-new version of the software while implementing agile practices into the work-flow.
+
+## Skills
+
+### How / Process
+
+* Focus on the product value proposition. I keep saying this - I know. If this starts to feel like a _mantra_, it just might be one ;-).
+* Release early. Release often.
+* Design software for proven use cases or to prove a use case.
+* Prefer asynchronous communication.
+* Use synchronous when needed. Then, really make the most out of the time spent together.
+* Remote work/team. I have been working remotely for over 3yrs and I'll share some of my experiences doing that in writing soon.
+
+### What / Tech-Stack
+
+I have a strong preference for _functional_ programming.
+
+In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. This is the kind of tech-stack with which I can feel at home.
+
+This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
+
+I also have a couple of years of experience with Ruby on Rails applications.
+
+If we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing API and services to get focus on the problem at hand, rather than reinventing the wheel.
+
+Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague Alex keeps getting into rhapsodies about the Live Views, so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskel or Elm (which I hear great things about from my friend Johannes.
+
+So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
 
 ## Education
 
@@ -100,51 +124,23 @@ _Graduated in February 2008_
 
 _Vordiplom (This was the original German system. In English this would be the equivalent of a Bachelor's degree.) in Mathematics (Grade: A) with a minor in Computer Science._
 
-## Skills
-
-### How / Process
-
-* Focus on the product value proposition. I keep saying this - I know. If this starts to feel like a _mantra_, it just might be one ;-).
-* Release early. Release often.
-* Design software for proven use cases or to prove a use case.
-* Prefer asynchronous communication.
-* Use synchronous when needed. Then, really make the most out of the time spent together.
-* Remote work/team. I have been working remotely for over 3yrs and I'll share some of my experiences doing that in writing soon.
-
-### What / Tech-Stack
-
-I have a strong preference for _functional_ programming. 
-
-In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. This is the kind of tech-stack with which I can feel at home.
-
-This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
-
-I also have a couple of years of experience with Ruby on Rails applications.
-
-If we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing API and services to get focus on the problem at hand, rather than reinventing the wheel.
-
-Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague Alex keeps getting into rhapsodies about the Live Views, so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskel or Elm (which I hear great things about from my friend Johannes. 
-
-So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
-
 ## Guiding Principles / Focus
 
-**1.**
+To sum this up we arrive at the following three guiding principles and one very important question.
 
-> Stay open(-minded)!
+❞ **Stay open(-minded)!**
 
-**2.**
+❞ **Product first, software second / if / when / however necessary!**
 
-> Product first, software second / if / when necessary!
+❞ **Lead by example!**
 
-**3.**
+❞ **What's the product value proposition?**
 
-> Lead by example!
+---
 
-***
+`#social` You may connect with me via [Email](mailto:jan@janraasch.com), [GitHub](https://github.com/janraasch/), or [XING](https://www.xing.com/profile/Jan_Raasch/).
+`#legal` Check out the [imprint](imprint/) for the legal notice and privacy policy of this website.
 
-`#social` You may connect with me via [Email](mailto:jan@janraasch.com), [GitHub](https://github.com/janraasch/), or [XING](https://www.xing.com/profile/Jan_Raasch/). `#legal` Check out the [imprint](imprint/) for the legal notice and privacy policy of this website.
-
-***
+---
 
 For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
