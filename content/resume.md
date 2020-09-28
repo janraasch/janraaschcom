@@ -15,7 +15,7 @@ menu:
 * [Skills - How / Process](#how--process)
 * [Skills - What / Tech-Stack](#what--tech-stack)
 * [Education](#education)
-* [Guiding Principles / Focus](guiding-principles--focus)
+* [Guiding Principles / Focus](#guiding-principles--focus)
 
 For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
 
