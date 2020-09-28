@@ -1,10 +1,12 @@
 ---
+title: Me and my projects 👨🏻‍🌾
+date: 2020-09-28
 menu:
     main:
         title: Me and My Projects 👨🏻‍🌾
         name: Projects
         weight: 10
-tags: [freelancer, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, yoga, yoga teacher, yoga courses, personal training]
+tags: [freelancer, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes]
 ---
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
