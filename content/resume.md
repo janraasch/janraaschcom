@@ -13,6 +13,8 @@ This page is currently under constuction 👷🏻‍♂️ .
 
 I'm filling in the blanks as we speak 🤓.
 
+For more information about any of my work, [get in touch][connect-mail-url]!
+
 ## Content
 
 * [Work Experience](#work-experience)
