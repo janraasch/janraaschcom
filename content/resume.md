@@ -9,7 +9,7 @@ menu:
 
 # Resume
 
-This page is currently under constuction 👷🏻‍♂️ .
+This page is currently under construction 👷🏻‍♂️ .
 
 I'm filling in the blanks as we speak 🤓.
 
@@ -24,17 +24,17 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 
 ## Work Experience
 
-### [Freelance (Senior) Webdevelopment & Product Consulting][janraasch-url]
+### [Freelance (Senior) Web Development & Product Consulting][janraasch-url]
 
 *January 2020 - Present*
 
-I help my clients with bringing their ideas to market.
+I work with my clients to bring their ideas to market.
 
-Whether you are a small / young start-up or a business unit of a larger already running company we will focus on what your product value proposition is, and how we can test our assumptions about this as early and light-weight as possible.
+Whether you are a small/young start-up or a business unit of a larger already running company we will focus on what your product value proposition is, and how we can test our assumptions about this as early and light-weight as possible.
 
 I have built early prototypes for my client founders to showcase their ideas to possible clients & investors.
 
-For my bigger clients, I supported their existing teams to meet their milestones. In these kind of szenarios my focus is on leading by example, and thus sharing my experience about how to build software on the web, how to work in a remote set-up and how to communicate efficently with the whole team.
+For my bigger clients, I supported their existing teams to meet their milestones. In these kinds of scenarios, my focus is on leading by example and thus sharing my experience about how to build scalable software on the web, how to work in a remote set-up, and how to communicate efficiently with the whole team.
 
 Interested? [Let's talk business!][lets-talk-business-url]
 
@@ -108,7 +108,7 @@ Lots 😋. More details will follow soon 👷🏻‍♂️ .
 
 ---
 
-`#social` You may connect with me via [Email][connect-mail-url], [GitHub][connect-github-url] or [XING][connect-xing-url].
+`#social` You may connect with me via [Email][connect-mail-url], [GitHub][connect-github-url], or [XING][connect-xing-url].
 `#legal` Check out the [imprint][imprint-url] for the legal notice and privacy policy of this website.
 
 ---
