@@ -13,11 +13,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/:slug/"
   tags = "/blog/:slug"
 
-# Copyright
-copyright = "<a href='/imprint'>&copy;2020 Jan Raasch - Imprint & Privacy Policy</a>"
-
 [params]
-
   # Metadata for search engines and social sharing
   author = "Jan Raasch"
   description = "Homepage of Jan Raasch: Software developer, product enthusiast & yoga teacher 🧘🏻‍♀️"
