@@ -1,6 +1,6 @@
 baseURL = "https://www.janraasch.com/"
 languageCode = "en-US"
-title = "Jan Raasch, software developer, product enthusiast & yoga teacher"
+title = "Jan Raasch, web developer building software for product value 🚀"
 theme="hugo-bearblog"
 
 # Generate a nice robots.txt for SEO
