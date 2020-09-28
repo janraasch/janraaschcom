@@ -25,7 +25,7 @@ copyright = "<a href='/imprint'>&copy;2020 Jan Raasch - Imprint & Privacy Policy
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Jan Raasch - Software Developer & Yoga Teacher 🧘🏻‍♀️"
+  title = "Jan Raasch, web developer building software for product value 🚀"
 
   # These "images" are used for the structured data templates. This will show up, when
   # services like Twitter or Slack want to generate a preview of a link to your site.
