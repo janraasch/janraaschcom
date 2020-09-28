@@ -1,19 +1,19 @@
 ---
-title: Resume - Look what I've done! 👀 😇
+title: "Resume - Look what I've done! \U0001F440 \U0001F607"
 menu:
-    main:
-        title: Look what I've done! 👀 😇
-        name: Resume
-        weight: 20
----
+  main:
+    name: Resume
+    title: "Look what I've done! \U0001F440 \U0001F607"
+    weight: 20
 
+---
 # Resume
 
 This page is currently under construction 👷🏻‍♂️ .
 
 I'm filling in the blanks as we speak 🤓.
 
-For more information about any of my work, [get in touch][connect-mail-url]!
+For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
 
 ## Content
 
@@ -24,9 +24,9 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 
 ## Work Experience
 
-### [Freelance (Senior) Web Development & Product Consulting][janraasch-url]
+### [Freelance (Senior) Web Development & Product Consulting](https://www.janraasch.com)
 
-*January 2020 - Present*
+_January 2020 - Present_
 
 I work with my clients to bring their ideas to market.
 
@@ -36,63 +36,97 @@ I have built early prototypes for my client founders to showcase their ideas to 
 
 For my bigger clients, I supported their existing teams to meet their milestones. In these kinds of scenarios, my focus is on leading by example and thus sharing my experience about how to build scalable software on the web, how to work in a remote set-up, and how to communicate efficiently with the whole team.
 
-Interested? [Let's talk business!][lets-talk-business-url]
+Interested? [Let's talk business!](mailto:jan@janraasch.com)
 
-### [tevim.com][tevim-url]
+### [tevim.com](https://tevim.com)
 
-*October 2017 - December 2019*
+_October 2017 - December 2019_
 
-*»Digitalization is an opportunity. We use its potential for meaningful change.«*
+_»Digitalization is an opportunity. We use its potential for meaningful change.«_
 
 Roles: Fullstack Web-Developer. Project Manager. Business Strategist. Sales Agent. Marketeer.
 
-More details will follow soon 👷🏻‍♂️ .
+During my time at tevim, we were a tight nit agency/team of five experienced software developers, so everybody had the opportunity (and responsibility) to chip in on different roles. There was a lot of room for personal development and knowledge sharing all whilst working very closely with a range of different customers.
 
-<!-- Small agency with big dreams. Small to medium clients. Fullstack webdev. Workshops, MVP, Digital / New Age version of existing app. -->
+I led workshops for distilling the product value proposition to work on in the early stages of web software MVPs.
 
-### [tolingo][tolingo-url]
+Together with our customers we built MVPs of brand-new product ideas and ported existing legacy web systems to the modern _mobile_ world.
 
-*May 2014 - September 2017*
+### [tolingo](https://www.tolingo.com)
 
-*»t for translation. Professional translations into any world language.«*
+_May 2014 - September 2017_
+
+_»t for translation. Professional translations into any world language.«_
 
 Role: Fullstack Web-Developer.
 
-More details will follow soon 👷🏻‍♂️ .
+At tolingo I head the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer. 
 
-<!-- 2 full employed web-devs. 1 freelance support. Running in-house software stack for the whole business which was growing fast. Great experience. Close to the product / its users. -->
+We were a small team of 2-3 engineers working on the internal software stack and the customer-facing web-shop.
 
-### [ePages][epages-url]
+I worked very closely with our stakeholders to enable the team of sales agents, translation project managers, and translators to deliver high-quality results efficiently through our custom-built software solutions.
 
-*April 2012 - April 2014*
+### [ePages](https://epages.com)
 
-*»Create your online shop in the cloud.«*
+_April 2012 - April 2014_
+
+_»Create your online shop in the cloud.«_
 
 Role: Frontend Web-Developer.
 
-More details will follow soon 👷🏻‍♂️ .
+ePages is my first professional engagement in the world of web software. I was eager to get out of the theoretical world of pure mathematics academia and I succeeded in picking up the tools and practices of web development very fast thanks to my strong basis in rational problem-solving.
 
-<!-- Started right after college. Eager to get started. Introduced the leadingv teck stack at the time backbone, requireJS. First team to work on an all new version of the software and with agile methods. -->
-
+We moved the existing frontend stack to the leading frontend stack of the time. Also, I was part of a spear-heading team that led the way to an all-new version of the software while implementing agile practices into the work-flow.
 
 ## Education
 
-More details will follow soon 👷🏻‍♂️ .
+### [Friedrich Schiller University Jena](https://www.uni-jena.de)
 
-<!-- ### Universität Jena
+_October 2009 - September 2011_
 
-### -->
+_Faculty of Mathematics and Computer Science - Algebra_
+
+Role: Teaching & Research Assistant.
+
+### [Iowa State University](https://www.iastate.edu/)
+
+_Graduated in August 2009_
+
+_Master of Science in Mathematics (Grade: A-)_
+
+### [University of Augsburg](https://www.uni-augsburg.de)
+
+_Graduated in February 2008_
+
+_Vordiplom (This was the original German system. In English this would be the equivalent of a Bachelor's degree.) in Mathematics (Grade: A) with a minor in Computer Science._
 
 ## Skills
 
-Lots 😋. More details will follow soon 👷🏻‍♂️ .
-
-<!--
 ### How / Process
 
-### What / Programming languages / Frameworks -->
+* Focus on the product value proposition. I keep saying this - I know. If this starts to feel like a _mantra_, it just might be one ;-).
+* Release early. Release often.
+* Design software for proven use cases or to prove a use case.
+* Prefer asynchronous communication.
+* Use synchronous when needed. Then, really make the most out of the time spent together.
 
-## Guiding principles / Focus
+### What / Tech-Stack
+
+I have a strong preference for _functional_ programming. 
+
+In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. This is the kind of tech-stack with which I can feel at home.
+
+This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
+
+I also have a couple of years of experience with Ruby on Rails applications.
+
+If we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing API and services to get focus on the problem at hand, rather than reinventing the wheel.
+
+Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague Alex keeps getting into rhapsodies about the Live Views, so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskel or Elm (which I hear great things about from my friend Johannes. 
+
+So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
+
+## Guiding Principles / Focus
 
 **1.**
 
@@ -106,21 +140,10 @@ Lots 😋. More details will follow soon 👷🏻‍♂️ .
 
 > Lead by example!
 
----
+***
 
-`#social` You may connect with me via [Email][connect-mail-url], [GitHub][connect-github-url], or [XING][connect-xing-url].
-`#legal` Check out the [imprint][imprint-url] for the legal notice and privacy policy of this website.
+`#social` You may connect with me via [Email](mailto:jan@janraasch.com), [GitHub](https://github.com/janraasch/), or [XING](https://www.xing.com/profile/Jan_Raasch/). `#legal` Check out the [imprint](imprint/) for the legal notice and privacy policy of this website.
 
----
+***
 
-For more information about any of my work, [get in touch][connect-mail-url]!
-
-[connect-mail-url]: mailto:jan@janraasch.com
-[connect-github-url]: https://github.com/janraasch/
-[connect-xing-url]: https://www.xing.com/profile/Jan_Raasch/
-[imprint-url]: imprint/
-[janraasch-url]: https://www.janraasch.com
-[lets-talk-business-url]: mailto:jan@janraasch.com
-[tevim-url]: https://tevim.com
-[tolingo-url]: https://www.tolingo.com
-[epages-url]: https://epages.com
+For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
