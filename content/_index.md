@@ -36,4 +36,4 @@ I am also a huge believer in open source. Lately, I've published a handful of de
 [connect-mail-url]: mailto:jan@janraasch.com
 [connect-github-url]: https://github.com/janraasch/
 [connect-xing-url]: https://www.xing.com/profile/Jan_Raasch/
-[imprint-url]: https://www.janraasch.com/imprint
+[imprint-url]: https://www.janraasch.com/imprint/
