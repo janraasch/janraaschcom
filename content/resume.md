@@ -109,6 +109,7 @@ _Vordiplom (This was the original German system. In English this would be the eq
 * Design software for proven use cases or to prove a use case.
 * Prefer asynchronous communication.
 * Use synchronous when needed. Then, really make the most out of the time spent together.
+* Remote work/team. I have been working remotely for over 3yrs and I'll share some of my experiences doing that in writing soon.
 
 ### What / Tech-Stack
 
