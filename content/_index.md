@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        title: Me and My Projects
+        title: Me and My Projects 👨🏻‍🌾
         name: Projects
         weight: 10
 tags: [freelancer, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, yoga, yoga teacher, yoga courses, personal training]
@@ -9,7 +9,7 @@ tags: [freelancer, remote, lübeck, germany, hamburg, software, software develop
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
 
-I have 8yrs+ of experience working as a professionell software developer in the industry. In another life (8+ yrs ago) I used to be a Mathematician.
+I have 8yrs+ of experience working as a professionell software developer in the industry. In another life (8+ yrs ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
 In recent years my focus is on leading by example and making software for product value.
 
@@ -40,4 +40,5 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 [connect-mail-url]: mailto:jan@janraasch.com
 [connect-github-url]: https://github.com/janraasch/
 [connect-xing-url]: https://www.xing.com/profile/Jan_Raasch/
-[imprint-url]: https://www.janraasch.com/imprint/
+[imprint-url]: imprint/
+[resume-url]: resume/
