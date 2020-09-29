@@ -33,6 +33,10 @@ I am also a huge believer in open source. Lately, I've published a handful of de
 
 For more information about any of my work, [get in touch][connect-mail-url]!
 
+---
+
+{{< img src="images/jan.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
+
 [hugo-scroll-url]: https://github.com/janraasch/hugo-scroll
 [hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
 [hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
