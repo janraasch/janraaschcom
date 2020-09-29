@@ -23,24 +23,19 @@ ignoreErrors = ["error-disable-taxonomy"]
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   title = "Jan Raasch, web developer building software for product value 🚀"
 
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  favicon = "images/favicon.png"
+
   # These "images" are used for the structured data templates. This will show up, when
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/default/share.png"]
+  images = ["images/share.png"]
 
-  # https://developer.mozilla.org/en-US/docs/Web/Manifest
-  site_manifest = "images/default/site.webmanifest"
-
-  [params.meta]
-    keywords = "freelancer, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, yoga, yoga teacher, yoga courses, personal training"
-
-  [params.favicon]
-    # Generated with https://favicon.io/favicon-generator/?t=👨🏼&ff=Leckerli+One&fs=260&fc=%230A0&b=rounded&bc=transparent
-    default = "images/default/favicon-32x32.png"
-    apple_touch_icon = "images/default/apple-touch-icon.png"
-    thirtytwo = "images/default/favicon-32x32.png"
-    sixteen = "images/default/favicon-16x16.png"
+  # This theme will, by default, inject a made-with-line at the bottom of the page.
+  # You can turn it off, but we would really appreciate if you don’t :-).
+  # hideMadeWithLine = true
 
 [markup]
     [markup.goldmark]
