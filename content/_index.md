@@ -24,8 +24,6 @@ In recent years my focus is on leading by example and making software for produc
 
 I am also a huge believer in open source. Lately, I've published a handful of design themes for Hugo (namely [hugo-scroll][hugo-scroll-url], [hugo-bearblog][hugo-bearblog-url] and [hugo-product-launch][hugo-product-launch-url]), and ported my Chrome extension [Tab Ahead][tab-ahead-url] to Firefox and Microsoft Edge. More coming soon!
 
-<!-- Oh, and I do teach Yoga as well. It's just that this particular website is not aware of that (yet?!). -->
-
 ---
 
 `#social` You may connect with me via [Email][connect-mail-url], [GitHub][connect-github-url], or [XING][connect-xing-url].
