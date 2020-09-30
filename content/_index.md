@@ -13,6 +13,12 @@ tags: [freelancer, remote, lübeck, germany, hamburg, software, software develop
 
 I have 8yrs+ of experience working as a professional software developer in the industry. In another life (8yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
+---
+
+👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q4 2020, Q1 2021 and beyond, [reach out][connect-mail-url]!
+
+---
+
 In recent years my focus is on leading by example and making software for product value.
 
 * Do you have a product (in mind or otherwise)?
