@@ -3,6 +3,7 @@ title = "No future w/o online meetings"
 date = "2020-10-01"
 description = "No future w/o online meetings - How to prepare properly 101. How to set up for an online / zoom meeting."
 draft = true
+tags = ["online meetings", "zoom", "skype", "does", "donts", "checklist", "remote work", "covid"]
 +++
 
 ## How to prepare properly 101
@@ -27,7 +28,13 @@ You may jump to the [👇 checklist](#checklist) right away, but it might seem t
 
 # Donts
 
+Let's focus on the negative first, so we know what to avoid.
+
+If the following list sounds familiar, it's all the more reason you read through this and make yourself aware of the issues - all of which can be avoided easily - once more such that afterwards we can all pledge to avoid these scenarios in the future.
+
 ## Mr-X
+
+Not the one from »Resident Evil 2«. Hell no, do not google this!
 
 `#no-mr-x`
 
