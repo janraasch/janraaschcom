@@ -16,7 +16,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [params]
   # Metadata for search engines and social sharing
   author = "Jan Raasch"
-  description = "Homepage of Jan Raasch: Software developer, product enthusiast & yoga teacher 🧘🏻‍♀️"
+  description = "Jan Raasch. Hi there, my name is Jan. I’m a software developer with a passion for building (digital) products. I have 8yrs+ of experience working as a professional software developer in the industry. In another life (8yrs+ ago) I used to be a Mathematician. For more details check out my resume. I’m happy to talk about work engagements, reach out!"
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
