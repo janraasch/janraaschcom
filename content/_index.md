@@ -50,5 +50,5 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 [connect-mail-url]: mailto:jan@janraasch.com
 [connect-github-url]: https://github.com/janraasch/
 [connect-xing-url]: https://www.xing.com/profile/Jan_Raasch/
-[imprint-url]: imprint/
-[resume-url]: resume/
+[imprint-url]: /imprint/
+[resume-url]: /resume/
