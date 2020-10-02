@@ -41,6 +41,7 @@ Not the one from »Resident Evil 2«. Hell no, do not google this!
 * https://www.pexels.com/photo/silhouette-of-a-man-in-window-143580/
 * https://www.pexels.com/photo/art-back-view-backlit-boy-448834/
 * https://www.pexels.com/photo/man-s-silhouette-near-white-window-blinds-775416/
+* https://www.pexels.com/photo/woman-standing-beside-window-with-pink-curtain-3328337/
 
 ## »You're breaking up!«
 
