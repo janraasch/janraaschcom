@@ -38,7 +38,13 @@ Not the one from »Resident Evil 2«. Hell no, do not google this!
 
 `#no-mr-x`
 
+* https://www.pexels.com/photo/silhouette-of-a-man-in-window-143580/
+* https://www.pexels.com/photo/art-back-view-backlit-boy-448834/
+* https://www.pexels.com/photo/man-s-silhouette-near-white-window-blinds-775416/
+
 ## »You're breaking up!«
+
+* https://www.pexels.com/photo/person-performing-on-stage-2610720/
 
 `#no-bad-voice-quality`
 
@@ -59,6 +65,8 @@ Not the one from »Resident Evil 2«. Hell no, do not google this!
 Check your setup in advance.
 
 ## Take it easy
+
+* https://www.pexels.com/photo/happy-cute-small-girl-in-glasses-sitting-on-table-in-light-living-room-3755494/
 
 # Checklist
 
