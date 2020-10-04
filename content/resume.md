@@ -43,7 +43,7 @@ _»Digitalization is an opportunity. We use its potential for meaningful change.
 
 Roles: Fullstack Web-Developer. Project Manager. Business Strategist. Sales Agent. Marketeer.
 
-During my time at tevim, we were a tight nit agency/team of five experienced software developers, so everybody had the opportunity (and responsibility) to chip in on different roles. There was a lot of room for personal development and knowledge sharing all whilst working very closely with a range of different customers.
+During my time at tevim, we were a tight-knit agency/team of five experienced software developers, so everybody had the opportunity (and responsibility) to chip in on different roles. There was a lot of room for personal development and knowledge sharing all whilst working very closely with a range of different customers.
 
 I led workshops for distilling the product value proposition to work on in the early stages of web software MVPs.
 
@@ -57,7 +57,7 @@ _»t for translation. Professional translations into any world language.«_
 
 Role: Fullstack Web-Developer.
 
-At tolingo I head the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer.
+At tolingo I had the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer.
 
 We were a small team of 2-3 engineers working on the internal software stack and the customer-facing web-shop.
 
@@ -71,7 +71,7 @@ _»Create your online shop in the cloud.«_
 
 Role: Frontend Web-Developer.
 
-ePages is my first professional engagement in the world of web software. I was eager to get out of the theoretical world of pure mathematics academia and I succeeded in picking up the tools and practices of web development very fast thanks to my strong basis in rational problem-solving.
+ePages was my first professional engagement in the world of web software. I was eager to get out of the theoretical world of pure mathematics academia and I succeeded in picking up the tools and practices of web development very fast thanks to my strong basis in rational problem-solving.
 
 We moved the existing frontend stack to the leading frontend stack of the time. Also, I was part of a spear-heading team that led the way to an all-new version of the software while implementing agile practices into the work-flow.
 
