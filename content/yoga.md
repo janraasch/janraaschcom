@@ -1,5 +1,4 @@
 ---
-    # Generated with https://favicon.io/favicon-generator/?t=🕉&ff=Leckerli+One&fs=200&fc=%230A0&b=rounded&bc=transparent
 title: "Yoga Teacher 🧘🏻‍♀️"
 # menu:
 #   main:
