@@ -6,7 +6,7 @@ menu:
         title: Me and My Projects 👨🏻‍🌾
         name: Projects
         weight: 10
-tags: [freelancer, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes]
+tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes, full stack, typescript]
 ---
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
