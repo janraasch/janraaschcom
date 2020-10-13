@@ -1,5 +1,6 @@
 ---
 title: "Yoga Teacher 🧘🏻‍♀️"
+date: 2020-10-13
 # menu:
 #   main:
 #     name: Yoga

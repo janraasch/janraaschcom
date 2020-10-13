@@ -1,5 +1,6 @@
 ---
 title: "Resume - Look what I've done! \U0001F440 \U0001F607"
+date: 2020-10-13
 menu:
   main:
     name: Resume
