@@ -5,6 +5,7 @@ title: "Yoga Teacher 🧘🏻‍♀️"
 #     name: Yoga
 #     title: "...also, I am a Yoga Teacher 🧘🏻‍♀️"
 #     weight: 40
+tags: [yoga]
 
 ---
 
