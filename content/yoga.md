@@ -7,7 +7,6 @@ date: 2020-10-13
 #     title: "...also, I am a Yoga Teacher 🧘🏻‍♀️"
 #     weight: 40
 tags: [yoga]
-
 ---
 
 # Yoga 🕉

@@ -7,7 +7,6 @@ menu:
     title: "Look what I've done! \U0001F440 \U0001F607"
     weight: 20
 tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript]
-
 ---
 # Resume
 
