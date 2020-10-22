@@ -75,10 +75,15 @@ HUGO_ENABLEGITINFO = "true"
   to="https://www.janraasch.com"
   force = true
   status = 301
- 
+
 [[redirects]]
   from="https://www.janraasch.com/thurmensa/*"
   to="https://www.janraasch.com/:splat"
   force = true
   status = 301
 
+[[redirects]]
+  from="https://www.janraasch.com/software/"
+  to="https://www.janraasch.com"
+  force = true
+  status = 301
