@@ -41,7 +41,7 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 
 ---
 
-{{< img src="images/jan.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
+{{< img src="images/jan-raasch.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
 
 [hugo-scroll-url]: https://github.com/janraasch/hugo-scroll
 [hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
