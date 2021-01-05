@@ -9,11 +9,7 @@ menu:
 tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes, full stack, typescript]
 ---
 
-# Merry Christmas, Happy Holidays 🎄 🎉
-
-{{<youtube wKj92352UAE>}}
-
-## Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
+# Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
 
 I have 8yrs+ of experience working as a professional software developer in the industry. In another life (8yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
