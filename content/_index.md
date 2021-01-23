@@ -32,6 +32,7 @@ I am also a huge believer in open source. Lately, I've published a handful of de
 
 ---
 
+`#languages` Feel free to [get in touch][connect-mail-url] in English and/or German.
 `#social` You may connect with me via [Email][connect-mail-url], [GitHub][connect-github-url], or [XING][connect-xing-url].
 `#legal` Check out the [imprint][imprint-url] for the legal notice and privacy policy of this website.
 
