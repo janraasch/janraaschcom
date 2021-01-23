@@ -6,7 +6,7 @@ menu:
     name: Resume
     title: "Look what I've done! \U0001F440 \U0001F607"
     weight: 20
-tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript]
+tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript, go, go-lang]
 ---
 # Resume
 
@@ -91,7 +91,7 @@ We moved the existing frontend stack to the leading frontend stack of the time. 
 
 I have a strong preference for _functional_ programming.
 
-In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. This is the kind of tech-stack with which I can feel at home.
+In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. Sprinkle in some Go code for serverless APIs, then this is the kind of tech-stack with which I can feel at home.
 
 This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
 
