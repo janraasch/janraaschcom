@@ -11,7 +11,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
 
-I have 8yrs+ of experience working as a professional software developer in the industry. In another life (8yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
+I have 9yrs+ of experience working as a professional software developer in the industry. In another life (9yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
 ---
 
