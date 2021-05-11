@@ -44,10 +44,6 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 
 {{< img src="images/jan-raasch.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
 
-👌 **You made it all the way down here. Time for some music 🔊. Enjoy 😁!**
-
-{{<mixcloud width="100%" height="120px" src="https://www.mixcloud.com/widget/iframe/?light=1&hide_cover=1&hide_artwork=1&feed=%2Fjoseph-jones%2Fdj-spinbad-90s-megamix%2F">}}
-
 [hugo-scroll-url]: https://github.com/janraasch/hugo-scroll
 [hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
 [hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
