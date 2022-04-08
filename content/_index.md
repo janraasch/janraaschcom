@@ -1,6 +1,6 @@
 ---
 title: Me and my projects 👨🏻‍🌾
-date: 2020-09-28
+date: 2022-04-08
 menu:
     main:
         title: Me and My Projects 👨🏻‍🌾
@@ -11,7 +11,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
 
-I have 9yrs+ of experience working as a professional software developer in the industry. In another life (9yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
+I have 10yrs+ of experience working as a professional software developer in the industry. In another life (10yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
 ---
 
