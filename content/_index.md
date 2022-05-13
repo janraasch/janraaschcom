@@ -1,6 +1,6 @@
 ---
 title: Me and my projects 👨🏻‍🌾
-date: 2022-04-08
+date: 2022-05-13
 menu:
     main:
         title: Me and My Projects 👨🏻‍🌾
@@ -15,7 +15,7 @@ I have 10yrs+ of experience working as a professional software developer in the 
 
 ---
 
-👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q4 2022 and beyond, [reach out][connect-mail-url]!
+👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q1 2023 and beyond, [reach out][connect-mail-url]!
 
 ---
 
