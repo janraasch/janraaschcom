@@ -34,7 +34,7 @@ I have built early prototypes for my client founders to showcase their ideas to 
 
 For my bigger clients, I supported their existing teams to meet their milestones. In these kinds of scenarios, my focus is on leading by example and thus sharing my experience about how to build scalable software on the web, how to work in a remote set-up, and how to communicate efficiently with the whole team.
 
-Interested? [Let's talk business!](mailto:jan@janraasch.com)
+Interested? [Let's talk business!](mailto:say-hi@janraasch.com)
 
 ### [tevim.com](https://tevim.com)
 
