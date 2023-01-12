@@ -139,7 +139,7 @@ To sum this up we arrive at the following three guiding principles and one very 
 
 ---
 
-`#social` You may connect with me via [Email](mailto:jan@janraasch.com) or [GitHub](https://github.com/janraasch/).
+`#social` You may connect with me via [Email](mailto:say-hi@janraasch.com) or [GitHub](https://github.com/janraasch/).
 `#legal` Check out the [imprint](/imprint/) for the legal notice and privacy policy of this website.
 
 ---
