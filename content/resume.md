@@ -18,7 +18,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 * [Education](#education)
 * [Guiding Principles / Focus](#guiding-principles--focus)
 
-For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
+For more information about any of my work, [get in touch](mailto:say-hi@janraasch.com)!
 
 ## Work Experience
 
@@ -144,7 +144,7 @@ To sum this up we arrive at the following three guiding principles and one very 
 
 ---
 
-For more information about any of my work, [get in touch](mailto:jan@janraasch.com)!
+For more information about any of my work, [get in touch](mailto:say-hi@janraasch.com)!
 
 [johannes-url]: https://dividat.com/unternehmen
 [alex-url]: https://alex.flatter.io/
