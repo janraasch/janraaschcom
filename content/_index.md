@@ -26,7 +26,7 @@ In recent years my focus is on leading by example and making software for produc
 * Or, are you ready to build a functioning MVP?
 * Or, do you already have a working product and want to scale up your team with my experience working remotely and with a focus on product thinking and getting your ideas to market faster?
 
-[Let's talk business](mailto:jan@janraasch.com)!
+[Let's talk business][connect-mail-url]!
 
 I am also a huge believer in open source. Lately, I've published a handful of design themes for Hugo (namely [hugo-scroll][hugo-scroll-url], [hugo-bearblog][hugo-bearblog-url] and [hugo-product-launch][hugo-product-launch-url]), and ported my Chrome extension [Tab Ahead][tab-ahead-url] to Firefox and Microsoft Edge. More coming soon!
 
@@ -48,7 +48,7 @@ For more information about any of my work, [get in touch][connect-mail-url]!
 [hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
 [hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
 [tab-ahead-url]: https://github.com/janraasch/tab-ahead
-[connect-mail-url]: mailto:jan@janraasch.com
+[connect-mail-url]: mailto:say-hi@janraasch.com
 [connect-github-url]: https://github.com/janraasch/
 [imprint-url]: /imprint/
 [resume-url]: /resume/
