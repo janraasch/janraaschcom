@@ -16,7 +16,7 @@ VAT number: DE327581351
 ### Controller and contact information
 
 Jan Raasch
-Email: jan@janraasch.com
+Email: webmaster@janraasch.com
 
 ### Collected data
 
