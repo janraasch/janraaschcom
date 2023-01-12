@@ -15,7 +15,7 @@ I have 10yrs+ of experience working as a professional software developer in the 
 
 ---
 
-👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q1 2023 and beyond, [reach out][connect-mail-url]!
+👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q3 2023 and beyond, [reach out][connect-mail-url]!
 
 ---
 
