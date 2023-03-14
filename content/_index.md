@@ -11,7 +11,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 
 # Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
 
-I have 11yrs+ of experience working as a professional software developer in the industry. In another life (10yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
+I have 11yrs+ of experience working as a professional software developer in the industry. In another life (11yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
 ---
 
@@ -28,7 +28,7 @@ In recent years my focus is on leading by example and making software for produc
 
 [Let's talk business][connect-mail-url]!
 
-I am also a huge believer in open source. Lately, I've published a handful of design themes for Hugo (namely [hugo-scroll][hugo-scroll-url], [hugo-bearblog][hugo-bearblog-url] and [hugo-product-launch][hugo-product-launch-url]), and ported my Chrome extension [Tab Ahead][tab-ahead-url] to Firefox and Microsoft Edge. More coming soon!
+I am also a huge believer in open source. I maintain two design themes for Hugo (namely [hugo-bearblog][hugo-bearblog-url] and [hugo-product-launch][hugo-product-launch-url]). More coming soon!
 
 ---
 
