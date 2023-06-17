@@ -21,4 +21,4 @@ Until then, much love to you.
 
 SAT NAM ☀️
 
-{{< video src="../images/404.jpeg" >}}
+{{< img src="images/404.jpeg" title="cutest dog living in our home 🐕😍" alt="cutest dog living in our home 🐕😍" >}}
