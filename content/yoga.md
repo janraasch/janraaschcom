@@ -5,7 +5,7 @@ menu:
     main:
       name: Yoga
       title: "Yes, I'll teach Yoga (again) very soon... ⏰"
-      weight: 40
+      weight: 10
 tags: [yoga]
 ---
 
