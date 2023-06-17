@@ -1,9 +1,9 @@
 ---
 title: "Yoga Teacher 🧘🏻‍♀️"
-date: 2023-06-19
+date: 2023-06-17
 menu:
     main:
-      name: Yoga
+      name: Yoga... coming soon 🌈
       title: "Yes, I'll teach Yoga (again) very soon... ⏰"
       weight: 10
 tags: [yoga]
