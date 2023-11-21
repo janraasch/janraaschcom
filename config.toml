@@ -1,6 +1,6 @@
 baseURL = "https://www.janraasch.com/"
 languageCode = "en-US"
-title = "Jan Raasch, web developer building software for product value 🚀"
+title = "Jan Raasch, full stack developer building software for product value 🚀"
 theme="hugo-bearblog"
 
 # Generate a nice robots.txt for SEO
@@ -21,7 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Jan Raasch, web developer building software for product value 🚀"
+  title = "Jan Raasch, full stack developer building software for product value 🚀"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.

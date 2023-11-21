@@ -8,6 +8,19 @@ menu:
     weight: 20
 tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript, go, go-lang]
 ---
+
+
+`<% self.promotion do %>` 🎄 **hire me** 🎄
+
+* 🎁 Do you need help wrapping up a neat christmas present on your roadmap?
+* 👨‍💻 Let's put `Ruby on Rails` / `JavaScript` / `TypeScript` / `React` to **full stack** use!
+* 🧑‍🎄 I'm happy to talk about work engagements for the holiday season.
+* 🎯 Yes, even in **December 2023!**
+
+[Reach out](mailto:say-hi@janraasch.com) 📧 | [Book a call](https://calendly.com/jan-raasch/30min-holiday-season-1-on-1) ☎️ `<% end %>`
+
+---
+
 # Resume
 
 ## Content
@@ -22,7 +35,7 @@ For more information about any of my work, [get in touch](mailto:say-hi@janraasc
 
 ## Work Experience
 
-### [Freelance (Senior) Web Development & Product Consulting](https://www.janraasch.com)
+### [Freelance (Senior) Full Stack Development & Product Consulting](https://www.janraasch.com)
 
 _January 2020 - Present_
 
@@ -42,7 +55,7 @@ _October 2017 - December 2019_
 
 _»Digitalization is an opportunity. We use its potential for meaningful change.«_
 
-Roles: Fullstack Web Developer. Project Manager. Business Strategist. Sales Agent. Marketeer.
+Roles: Full Stack Developer. Project Manager. Business Strategist. Sales Agent. Marketeer.
 
 During my time at tevim, we were a tight-knit agency/team of five experienced software developers, so everybody had the opportunity (and responsibility) to chip in on different roles. There was a lot of room for personal development and knowledge sharing all whilst working very closely with a range of different customers.
 
@@ -56,9 +69,9 @@ _May 2014 - September 2017_
 
 _»t for translation. Professional translations into any world language.«_
 
-Role: Fullstack Web Developer.
+Role: Full Stack Developer.
 
-At tolingo I had the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Fullstack Web Developer.
+At tolingo I had the opportunity to grow from a Frontend / JavaScript engineer to a full-fledged Full Stack Developer.
 
 We were a small team of 2-3 engineers working on the internal software stack and the customer-facing web-shop.
 
@@ -70,7 +83,7 @@ _April 2012 - April 2014_
 
 _»Create your online shop in the cloud.«_
 
-Role: Frontend Web Developer.
+Role: Frontend Developer.
 
 ePages was my first professional engagement in the world of web software. I was eager to get out of the theoretical world of pure mathematics academia and I succeeded in picking up the tools and practices of web development very fast thanks to my strong basis in rational problem-solving.
 

@@ -1,23 +1,29 @@
 ---
 title: Me and my projects 👨🏻‍🌾
-date: 2022-05-13
+date: 2023-11-21
 menu:
     main:
         title: Me and My Projects 👨🏻‍🌾
         name: Projects
         weight: 10
-tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes, full stack, typescript]
+tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes, full stack, full-stack, typescript, ruby on rails, ruby, go, nextjs, next]
 ---
 
-# Hi there, my name is Jan. I'm a software developer with a passion for building (digital) products.
+
+`<% self.promotion do %>` 🎄 **hire me** 🎄
+
+* 🎁 Do you need help wrapping up a neat christmas present on your roadmap?
+* 👨‍💻 Let's put `Ruby on Rails` / `JavaScript` / `TypeScript` / `React` to **full stack** use!
+* 🧑‍🎄 I'm happy to talk about work engagements for the holiday season.
+* 🎯 Yes, even in **December 2023!**
+
+[Reach out](mailto:say-hi@janraasch.com) 📧 | [Book a call](https://calendly.com/jan-raasch/30min-holiday-season-1-on-1) ☎️ `<% end %>`
+
+---
+
+# Hi there, my name is Jan. I'm a full stack developer with a passion for building (digital) products.
 
 I have 11yrs+ of experience working as a professional software developer in the industry. In another life (11yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
-
----
-
-👷🏻‍♂️ **hire me** I'm happy to talk about work engagements for Q4 2023 and beyond, [reach out][connect-mail-url]!
-
----
 
 In recent years my focus is on leading by example and making software for product value.
 
