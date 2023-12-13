@@ -9,18 +9,6 @@ menu:
 tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript, go, go-lang]
 ---
 
-
-`<% self.promotion do %>` 🎄 **hire me** 🎄
-
-* 🎁 Do you need help wrapping up a neat christmas present on your roadmap?
-* 👨‍💻 Let's put `Ruby on Rails` / `JavaScript` / `TypeScript` / `React` to **full stack** use!
-* 🧑‍🎄 I'm happy to talk about work engagements for the holiday season.
-* 🎯 Yes, even in **December 2023!**
-
-[Reach out](mailto:say-hi@janraasch.com) 📧 | [Book a call](https://calendly.com/jan-raasch/30min-holiday-season-1-on-1) ☎️ `<% end %>`
-
----
-
 # Resume
 
 ## Content
