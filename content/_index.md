@@ -1,6 +1,6 @@
 ---
 title: Me and my projects 👨🏻‍🌾
-date: 2023-11-21
+date: 2024-01-31
 menu:
     main:
         title: Me and My Projects 👨🏻‍🌾
@@ -11,7 +11,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 
 # Hi there, my name is Jan. I'm a full stack developer with a passion for building (digital) products.
 
-I have 11yrs+ of experience working as a professional software developer in the industry. In another life (11yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
+I have 12yrs+ of experience working as a professional software developer in the industry. In another life (12yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
 
 ---
 
@@ -32,7 +32,15 @@ In recent years my focus is on leading by example and making software for produc
 
 [Let's talk business][connect-mail-url]!
 
-I am also a huge believer in open source. I maintain two design themes for Hugo (namely [hugo-bearblog][hugo-bearblog-url] and [hugo-product-launch][hugo-product-launch-url]). More coming soon!
+
+{{< img src="images/jan-raasch.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
+
+I am also a huge believer in open source. I maintain two design themes for Hugo:
+
+* [Hugo ʕ•ᴥ•ʔ Bear][hugo-bearblog-url] and
+* [Hugo Product Launch][hugo-product-launch-url]
+
+More coming soon!
 
 ---
 
@@ -44,9 +52,6 @@ I am also a huge believer in open source. I maintain two design themes for Hugo 
 
 For more information about any of my work, [get in touch][connect-mail-url]!
 
----
-
-{{< img src="images/jan-raasch.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
 
 [hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
 [hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
