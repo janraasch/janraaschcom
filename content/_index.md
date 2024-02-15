@@ -17,7 +17,7 @@ I have 12yrs+ of experience working as a professional software developer in the 
 
 👷🏻‍♂️ **hire me** 🤝
 
-I'm happy to talk about work engagements for Q1 2024 and beyond!
+I'm happy to talk about work engagements for Q2 2024 and beyond!
 
 [Reach out via email](mailto:say-hi@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/30min-new-years-celebration-1-on-1) ☎️
 
