@@ -1,62 +1,18 @@
 ---
-title: Me and my projects 👨🏻‍🌾
-date: 2024-01-31
+title: Home
+date: 2024-02-22
 menu:
     main:
-        title: Me and My Projects 👨🏻‍🌾
-        name: Projects
+        title: Home
+        name: Home
         weight: 10
 tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, hugo themes, full stack, full-stack, typescript, ruby on rails, ruby, go, nextjs, next]
 ---
 
-# Hi there, my name is Jan. I'm a full stack developer with a passion for building (digital) products.
+hello! my name is Jan, and I am a full-stack developer passionate about creating digital products prioritizing impactful, serene, and human-centric experiences.
 
-I have 12yrs+ of experience working as a professional software developer in the industry. In another life (12yrs+ ago) I used to be a Mathematician. For more details check out [my resume][resume-url].
+i have been working as a professional software developer for over 12 years. in a previous life, over 12 years ago, i used to be a mathematician.
 
----
+if you want to learn more about my services and how we can work together, please [click here][hire-me-url].
 
-👷🏻‍♂️ **hire me** 🤝
-
-I'm happy to talk about work engagements for Q2 2024 and beyond!
-
-[Reach out via email](mailto:say-hi@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/30min-new-years-celebration-1-on-1) ☎️
-
----
-
-In recent years my focus is on leading by example and making software for product value.
-
-* Do you have a product (in mind or otherwise)?
-* Do you want to build an early prototype?
-* Or, are you ready to build a functioning MVP?
-* Or, do you already have a working product and want to scale up your team with my experience working remotely and with a focus on product thinking and getting your ideas to market faster?
-
-[Let's talk business][connect-mail-url]!
-
-
-{{< img src="images/jan-raasch.jpeg" title="Hi there 👋🏻" alt="Jan Raasch" >}}
-
-I am also a huge believer in open source. I maintain two design themes for Hugo:
-
-* [Hugo ʕ•ᴥ•ʔ Bear][hugo-bearblog-url] and
-* [Hugo Product Launch][hugo-product-launch-url]
-
-More coming soon!
-
----
-
-`#languages` Feel free to [get in touch][connect-mail-url] in English and/or German.
-`#social` You may connect with me via [Email][connect-mail-url] or [GitHub][connect-github-url].
-`#legal` Check out the [imprint][imprint-url] for the legal notice and privacy policy of this website.
-
----
-
-For more information about any of my work, [get in touch][connect-mail-url]!
-
-
-[hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
-[hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
-[tab-ahead-url]: https://github.com/janraasch/tab-ahead
-[connect-mail-url]: mailto:say-hi@janraasch.com
-[connect-github-url]: https://github.com/janraasch/
-[imprint-url]: /imprint/
-[resume-url]: /resume/
+[hire-me-url]: /hire-me/

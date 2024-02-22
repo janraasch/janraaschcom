@@ -1,25 +1,81 @@
 ---
-title: "Resume - Look what I've done! \U0001F440 \U0001F607"
-date: 2020-10-13
+title: Hire me
+date: 2024-02-22
 menu:
-  main:
-    name: Resume
-    title: "Look what I've done! \U0001F440 \U0001F607"
-    weight: 20
-tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, software development, consulting, product thinker, lead developer, team lead, senior software developer, web development, product value, mathematician, remote work, full stack, typescript, go, go-lang]
+    main:
+        title: Hire me
+        name: Hire Me
+        weight: 50
 ---
 
-# Resume
+# Hire Me
+
+I'm happy to talk about work engagements for Q2 2024 and beyond!
+
+[Reach out via email](mailto:jan@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/30min-new-years-celebration-1-on-1) ☎️
 
 ## Content
 
-* [Work Experience](#work-experience)
+* [Intro](#intro)
+* `TODO: add »testimontials«`
 * [Skills - How / Process](#how--process)
 * [Skills - What / Tech-Stack](#what--tech-stack)
-* [Education](#education)
+* `TODO: add »past projects« / »portfolio«`
 * [Guiding Principles / Focus](#guiding-principles--focus)
+* [Work Experience](#work-experience)
+* [Education](#education)
 
-For more information about any of my work, [get in touch](mailto:say-hi@janraasch.com)!
+## Intro
+
+`# TODO: This should be turned into a proper »services«-section.`
+
+In recent years my focus is on leading by example and making software for product value.
+
+* Do you have a product (in mind or otherwise)?
+* Do you want to build an early prototype?
+* Or, are you ready to build a functioning MVP?
+* Or, do you already have a working product and want to scale up your team with my experience working remotely and with a focus on product thinking and getting your ideas to market faster?
+
+If so, please read on to learn more, or [shoot me an e-mail](mailto:jan@janraasch.com) and let's talk :)
+
+## Skills
+
+### How / Process
+
+* Focus on the product value proposition.
+* Release early. Release often.
+* Design software for proven use cases or to prove a use case.
+* Prefer asynchronous communication.
+* Use synchronous when needed. Then, really make the most out of the time spent together.
+* Remote work/team. I have been working remotely for over 6yrs.
+
+### What / Tech-Stack
+
+I have a strong preference for _functional_ programming.
+
+In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. Sprinkle in some Go code for serverless APIs, then this is the kind of tech-stack with which I can feel at home.
+
+This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
+
+I also have a couple of years of experience with Ruby on Rails applications.
+
+When we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing APIs and services to get focus on the problem at hand, rather than reinventing the wheel.
+
+Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague [Alex][alex-url] keeps getting into [rhapsodies about the Live Views][alex-live-views-tweet-url], so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskell or Elm (which I hear great things about from my friend [Johannes][johannes-url]).
+
+So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
+
+## Guiding Principles / Focus
+
+To sum this up we arrive at the following three guiding principles and one very important question.
+
+❞ **Stay open(-minded)!**
+
+❞ **Product first, software second / if / when / however necessary!**
+
+❞ **Lead by example!**
+
+❞ **What's the product value proposition?**
 
 ## Work Experience
 
@@ -35,7 +91,7 @@ I have built early prototypes for my client founders to showcase their ideas to 
 
 For my bigger clients, I supported their existing teams to meet their milestones. In these kinds of scenarios, my focus is on leading by example and thus sharing my experience about how to build scalable software on the web, how to work in a remote set-up, and how to communicate efficiently with the whole team.
 
-Interested? [Let's talk business!](mailto:say-hi@janraasch.com)
+Interested? [Let's talk business!](mailto:jan@janraasch.com)
 
 ### [tevim.com](https://tevim.com)
 
@@ -77,33 +133,6 @@ ePages was my first professional engagement in the world of web software. I was 
 
 We moved the existing frontend stack to the leading frontend stack of the time. Also, I was part of a spear-heading team that led the way to an all-new version of the software while implementing agile practices into the work-flow.
 
-## Skills
-
-### How / Process
-
-* Focus on the product value proposition. I keep saying this - I know. If this starts to feel like a _mantra_, it just might be one ;-).
-* Release early. Release often.
-* Design software for proven use cases or to prove a use case.
-* Prefer asynchronous communication.
-* Use synchronous when needed. Then, really make the most out of the time spent together.
-* Remote work/team. I have been working remotely for over 3yrs and I'll share some of my experiences doing that in writing soon.
-
-### What / Tech-Stack
-
-I have a strong preference for _functional_ programming.
-
-In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. Sprinkle in some Go code for serverless APIs, then this is the kind of tech-stack with which I can feel at home.
-
-This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
-
-I also have a couple of years of experience with Ruby on Rails applications.
-
-When we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing APIs and services to get focus on the problem at hand, rather than reinventing the wheel.
-
-Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague [Alex][alex-url] keeps getting into [rhapsodies about the Live Views][alex-live-views-tweet-url], so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskell or Elm (which I hear great things about from my friend [Johannes][johannes-url]).
-
-So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
-
 ## Education
 
 ### [Friedrich Schiller University Jena](https://www.uni-jena.de)
@@ -126,27 +155,16 @@ _Graduated in February 2008_
 
 _Vordiplom (This was the original German system. In English this would be the equivalent of a Bachelor's degree.) in Mathematics (Grade: A) with a minor in Computer Science._
 
-## Guiding Principles / Focus
-
-To sum this up we arrive at the following three guiding principles and one very important question.
-
-❞ **Stay open(-minded)!**
-
-❞ **Product first, software second / if / when / however necessary!**
-
-❞ **Lead by example!**
-
-❞ **What's the product value proposition?**
-
----
-
-`#social` You may connect with me via [Email](mailto:say-hi@janraasch.com) or [GitHub](https://github.com/janraasch/).
-`#legal` Check out the [imprint](/imprint/) for the legal notice and privacy policy of this website.
-
----
-
-For more information about any of my work, [get in touch](mailto:say-hi@janraasch.com)!
+You made it this far :) [Let's talk business](mailto:jan@janraasch.com)!
 
 [johannes-url]: https://dividat.com/unternehmen
 [alex-url]: https://alex.flatter.io/
 [alex-live-views-tweet-url]: https://twitter.com/aflatter/status/1279473667634839552
+[hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog
+[hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch
+[tab-ahead-url]: https://github.com/janraasch/tab-ahead
+[connect-mail-url]: mailto:jan@janraasch.com
+[connect-github-url]: https://github.com/janraasch/
+[imprint-url]: /imprint/
+[resume-url]: /resume/
+

@@ -1,41 +1,34 @@
 baseURL = "https://www.janraasch.com/"
 languageCode = "en-US"
-title = "Jan Raasch, full stack developer building software for product value 🚀"
+title = "janraasch.com"
 theme="hugo-bearblog"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy", "404"]
-ignoreErrors = ["error-disable-taxonomy"]
-[permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+disableKinds = ["taxonomy", "404", "term"]
 
 [params]
   # Metadata for search engines and social sharing
   author = "Jan Raasch"
-  description = "Jan Raasch. Hi there, my name is Jan. I’m a software developer with a passion for building (digital) products. I have 12yrs+ of experience working as a professional software developer in the industry. In another life (12yrs+ ago) I used to be a Mathematician. For more details check out my resume. I’m happy to talk about work engagements, reach out!"
+  description = "Jan Raasch. Hello! My name is Jan, and I am a full-stack developer passionate about creating digital products prioritizing impactful, serene, and human-centric experiences. I have been working as a professional software developer for over 12 years. Over 12 years ago, I was a mathematician. If you want to learn more about my services and how we can work together, reach out!"
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Jan Raasch, full stack developer building software for product value 🚀"
+  title = "Jan Raasch, full-stack developer building software for people."
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  # TODO: Generate a new "favicon.png". Maybe use 🤖.
   favicon = "images/favicon.png"
 
   # These "images" are used for the structured data templates. This will show up, when
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
+  # TODO: Generate an up-to-date "share.png"
   images = ["images/share.png"]
-
-  # This theme will, by default, inject a made-with-line at the bottom of the page.
-  # You can turn it off, but we would really appreciate if you don’t :-).
-  # hideMadeWithLine = true
 
 [markup]
     [markup.goldmark]
