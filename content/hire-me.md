@@ -12,7 +12,7 @@ menu:
 
 I'm happy to talk about work engagements for Q3 2024 and beyond!
 
-[Reach out via email](mailto:jan@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/ai-office-hours) ☎️
+[Reach out via email](mailto:jan@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/office-hours) ☎️
 
 ## Content
 

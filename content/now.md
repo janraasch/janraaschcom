@@ -10,11 +10,10 @@ menu:
 
 **now**
 
-i am currently taking the [AI Safety Fundamentals][ai-safety-fundamentals-url] course on AI Alignment.
 
-i am developing a calm, no-frills photo-sharing application to connect couples throughout the day, even when they are physically apart.
+i am currently wrapping up my final project for the [AI Safety Fundamentals][ai-safety-fundamentals-url] course on AI alignment.
 
-i am mastering programming with [Elixir][elixir-lang-url] and delving deeper into this field.
+looking ahead, i'm actively seeking [freelance work opportunities][hire-me-url] for the latter half of 2024.
 
 [hire-me-url]: /hire-me/
 [alex-flatter-url]: https://alex.flatter.io
