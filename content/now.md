@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-03-21
+date: 2024-08-20
 menu:
     main:
         title: Now
@@ -13,7 +13,7 @@ menu:
 
 i am currently wrapping up my final project for the [AI Safety Fundamentals][ai-safety-fundamentals-url] course on AI alignment. please [click here][activate-love-url] to check it out :)
 
-looking ahead, i'm actively seeking [freelance work opportunities][hire-me-url] for the latter half of 2024.
+looking ahead, i'm actively seeking [freelance work opportunities][hire-me-url] for Q4 2024 and beyond.
 
 [hire-me-url]: /hire-me/
 [alex-flatter-url]: https://alex.flatter.io

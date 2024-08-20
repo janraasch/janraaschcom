@@ -1,6 +1,6 @@
 ---
 title: Hire me
-date: 2024-02-22
+date: 2024-08-20
 menu:
     main:
         title: Hire me
@@ -10,7 +10,7 @@ menu:
 
 # Hire Me
 
-I'm happy to talk about work engagements for Q3 2024 and beyond!
+I'm happy to talk about work engagements for Q4 2024 and beyond!
 
 [Reach out via email](mailto:jan@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/office-hours) ☎️
 
