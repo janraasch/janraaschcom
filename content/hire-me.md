@@ -8,92 +8,69 @@ menu:
         weight: 50
 ---
 
-# Hire Me
+*i'm happy to talk about work engagements for Q4 2024 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
 
-I'm happy to talk about work engagements for Q4 2024 and beyond!
+**intro**
 
-[Reach out via email](mailto:jan@janraasch.com) 📧 or [book a zoom call](https://calendly.com/jan-raasch/office-hours) ☎️
+with over 12 years of experience in web development, i bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
 
-## Content
+my journey began on the frontend during the twilight of jQuery and the dawn of technologies like Backbone, NodeJS and Grunt. today, i'm a versatile full-stack developer. i thrive on translating product requirements into technical solutions.
 
-* [Intro](#intro)
-* `TODO: add »testimontials«`
-* [Skills - How / Process](#how--process)
-* [Skills - What / Tech-Stack](#what--tech-stack)
-* `TODO: add »past projects« / »portfolio«`
-* [Guiding Principles / Focus](#guiding-principles--focus)
-* [Work Experience](#work-experience)
-* [Education](#education)
+**approach**
 
-## Intro
+my background in mathematics enables me to quickly adapt to new technologies and solve complex problems efficiently. i'm a strong advocate for functional programming and believe in building small prototypes to test ideas early in the development process.
 
-`# TODO: This should be turned into a proper »services«-section.`
+#### core competencies
 
-In recent years my focus is on leading by example and making software for product value.
+__ backend development __
+10+ years of Ruby on Rails expertise
 
-* Do you have a product (in mind or otherwise)?
-* Do you want to build an early prototype?
-* Or, are you ready to build a functioning MVP?
-* Or, do you already have a working product and want to scale up your team with my experience working remotely and with a focus on product thinking and getting your ideas to market faster?
+__ frontend development __
+proficient in React, TypeScript, and modern JavaScript frameworks like NextJS
 
-If so, please read on to learn more, or [shoot me an e-mail](mailto:jan@janraasch.com) and let's talk :)
+__ full-stack integration __
+skilled in GraphQL for seamless frontend-backend integration
 
-## Skills
+__ emerging technologies __
+recent focus on Elixir & Phoenix LiveView for cutting-edge full-stack development
 
-### How / Process
+__ ai & mechanistic interpretability __
+completed AI Alignment course by BlueDot Impact and was awarded *Best Interactive Deliverable* for final project - [click here][ai-safety-fundamentals-project-url] to view the project
 
-* Focus on the product value proposition.
-* Release early. Release often.
-* Design software for proven use cases or to prove a use case.
-* Prefer asynchronous communication.
-* Use synchronous when needed. Then, really make the most out of the time spent together.
-* Remote work/team. I have been working remotely for over 6yrs.
+__ no/low-code & rapid prototyping __
+adept at leveraging no-code tools like Bubble.io, Airtable, and Retool for quick MVP development
 
-### What / Tech-Stack
+#### project experience
 
-I have a strong preference for _functional_ programming.
+from working with founders to build their first MVPs to delivering high-priority features for larger companies, i've successfully contributed to a diverse range of projects. my experience spans:
 
-In recent years that has manifested itself in using TypeScript a lot. TypeScript works well with ReactJS and GraphQL, too. Sprinkle in some Go code for serverless APIs, then this is the kind of tech-stack with which I can feel at home.
+* prototype development for startup founders
+* MVP creation for new ventures
+* high-priority roadmap item delivery for established companies
+* pure backend/API development
+* full-circle frontend and backend integration
+* enabling and empowering internal teams, e.g. by
+    * kick-starting major projects and seamlessly integrating internal staff
+    * providing technical consultation on solutions utilizing existing resources
+    * offering ongoing support and guidance during implementation, often in an advisory capacity
 
-This tech-stack enables me to deliver on bleeding edge web software, which can easily be shipped natively on iOS, Android, Windows, Mac OS, and Linux via application shells like Electron if needed.
+my approach not only delivers immediate results but also enhances the capabilities of in-house teams, fostering long-term success and self-sufficiency.
 
-I also have a couple of years of experience with Ruby on Rails applications.
+#### working style
 
-When we are building an early prototype or MVP, I advise keeping it _as low-tech as possible_ and rather use existing APIs and services to get focus on the problem at hand, rather than reinventing the wheel.
+as a remote worker, i prioritize focused deep work and asynchronous communication. however, i'm always ready to engage in valuable synchronous discussions when needed and enjoy participating in kick-off workshops or team meetings in person when possible.
 
-Like anybody, I like to keep up-2-date and play around with the new kids on the block. Elixir & Phoenix look very promising. My dear colleague [Alex][alex-url] keeps getting into [rhapsodies about the Live Views][alex-live-views-tweet-url], so I am eager to get my hands dirty with that. Lastly, I have yet to build a larger portion of software with a (pure?) language like Haskell or Elm (which I hear great things about from my friend [Johannes][johannes-url]).
+#### logistics
 
-So there's room to grow, but let's not get carried away: I build software for products first, fun tech-stacks second, or third, or `x^th, where x > 3`...
+my time commitment is tailored to each project's unique needs. for focused projects, i typically dedicate 2-3 man-days (8 hours each) spread across 3-4 days per week. i'm also available for smaller consulting-type engagements, which might involve only one or two calls per month. this flexibility allows me to accommodate various project scales and client needs, ensuring I can provide the right level of attention and expertise to each engagement.
 
-## Guiding Principles / Focus
+whether you're a startup looking to validate your idea or an established company needing to accelerate your development roadmap, i'm here to help turn your vision into reality.
 
-To sum this up we arrive at the following three guiding principles and one very important question.
+*i'm happy to talk about work engagements for Q4 2024 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
 
-❞ **Stay open(-minded)!**
+#### previous employment
 
-❞ **Product first, software second / if / when / however necessary!**
-
-❞ **Lead by example!**
-
-❞ **What's the product value proposition?**
-
-## Work Experience
-
-### [Freelance (Senior) Full Stack Development & Product Consulting](https://www.janraasch.com)
-
-_January 2020 - Present_
-
-I work with my clients to bring their ideas to market.
-
-Whether you are a small/young start-up or a business unit of a larger already running company we will focus on what your product value proposition is, and how we can test our assumptions about this as early and light-weight as possible.
-
-I have built early prototypes for my client founders to showcase their ideas to possible clients & investors.
-
-For my bigger clients, I supported their existing teams to meet their milestones. In these kinds of scenarios, my focus is on leading by example and thus sharing my experience about how to build scalable software on the web, how to work in a remote set-up, and how to communicate efficiently with the whole team.
-
-Interested? [Let's talk business!](mailto:jan@janraasch.com)
-
-### [tevim.com](https://tevim.com)
+[tevim.com](https://tevim.com)
 
 _October 2017 - December 2019_
 
@@ -107,7 +84,9 @@ I led workshops for distilling the product value proposition to work on in the e
 
 Together with our customers we built MVPs of brand-new product ideas and ported existing legacy web systems to the modern _mobile_ world.
 
-### [tolingo](https://www.tolingo.com)
+///
+
+[tolingo](https://www.tolingo.com)
 
 _May 2014 - September 2017_
 
@@ -121,7 +100,9 @@ We were a small team of 2-3 engineers working on the internal software stack and
 
 I worked very closely with our stakeholders to enable the team of sales agents, translation project managers, and translators to deliver high-quality results efficiently through our custom-built software solutions.
 
-### [ePages](https://epages.com)
+///
+
+[ePages](https://epages.com)
 
 _April 2012 - April 2014_
 
@@ -133,9 +114,9 @@ ePages was my first professional engagement in the world of web software. I was 
 
 We moved the existing frontend stack to the leading frontend stack of the time. Also, I was part of a spear-heading team that led the way to an all-new version of the software while implementing agile practices into the work-flow.
 
-## Education
+#### education
 
-### [Friedrich Schiller University Jena](https://www.uni-jena.de)
+[Friedrich Schiller University Jena](https://www.uni-jena.de)
 
 _October 2009 - September 2011_
 
@@ -143,17 +124,21 @@ _Faculty of Mathematics and Computer Science - Algebra_
 
 Role: Teaching & Research Assistant.
 
-### [Iowa State University](https://www.iastate.edu/)
+///
+
+[Iowa State University](https://www.iastate.edu/)
 
 _Graduated in August 2009_
 
 _Master of Science in Mathematics (Grade: A-)_
 
-### [University of Augsburg](https://www.uni-augsburg.de)
+[University of Augsburg](https://www.uni-augsburg.de)
 
 _Graduated in February 2008_
 
 _Vordiplom (This was the original German system. In English this would be the equivalent of a Bachelor's degree.) in Mathematics (Grade: A) with a minor in Computer Science._
+
+///
 
 You made it this far :) [Let's talk business](mailto:jan@janraasch.com)!
 
@@ -167,4 +152,5 @@ You made it this far :) [Let's talk business](mailto:jan@janraasch.com)!
 [connect-github-url]: https://github.com/janraasch/
 [imprint-url]: /imprint/
 [resume-url]: /resume/
+[ai-safety-fundamentals-project-url]: https://aisafetyfundamentals.com/projects/activate-love-steering-ai-text-generation/
 
