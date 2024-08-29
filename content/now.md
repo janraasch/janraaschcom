@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-08-20
+date: 2024-08-29
 menu:
     main:
         title: Now
@@ -10,15 +10,9 @@ menu:
 
 **now**
 
+i'm excited to share that i recently won the *Best Interactive Deliverable* award for my final project in the AI Safety Fundamentals course on AI alignment. i'd love for you to check it out – [click here][ai-safety-fundamentals-project-url] to view the project!
 
-i am currently wrapping up my final project for the [AI Safety Fundamentals][ai-safety-fundamentals-url] course on AI alignment. please [click here][activate-love-url] to check it out :)
-
-looking ahead, i'm actively seeking [freelance work opportunities][hire-me-url] for Q4 2024 and beyond.
+looking ahead, i'm actively seeking *freelance work opportunities for Q4 2024 and beyond*. if you'd like to learn more about my services and how we can work together, please [click here][hire-me-url].
 
 [hire-me-url]: /hire-me/
-[alex-flatter-url]: https://alex.flatter.io
-[ai-safety-fundamentals-url]: https://aisafetyfundamentals.com/
-[hugo-bearblog-url]: https://github.com/janraasch/hugo-bearblog/
-[hugo-product-launch-url]: https://github.com/janraasch/hugo-product-launch/
-[elixir-lang-url]: https://elixir-lang.org
-[activate-love-url]: https://huggingface.co/spaces/janraasch/activate-love
+[ai-safety-fundamentals-project-url]: https://aisafetyfundamentals.com/projects/activate-love-steering-ai-text-generation/
