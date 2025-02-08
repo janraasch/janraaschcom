@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2024-08-29
+date: 2025-02-08
 menu:
     main:
         title: Home
@@ -11,7 +11,7 @@ tags: [freelancer, contractor, remote, lübeck, germany, hamburg, software, soft
 
 hello! my name is Jan, and i am a full-stack developer passionate about creating digital products prioritizing impactful, serene, and human-centric experiences.
 
-i have been working as a professional software developer for over 12 years. in a previous life, over 12 years ago, i used to be a mathematician.
+i have been working as a professional software developer for over 13 years. in a previous life, over 13 years ago, i used to be a mathematician.
 
 if you want to learn more about my services and how we can work together, please [click here][hire-me-url].
 

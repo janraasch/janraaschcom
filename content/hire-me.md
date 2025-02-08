@@ -1,6 +1,6 @@
 ---
 title: Hire me
-date: 2024-08-20
+date: 2025-02-08
 menu:
     main:
         title: Hire me
@@ -8,11 +8,11 @@ menu:
         weight: 50
 ---
 
-*i'm happy to talk about work engagements for Q4 2024 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
+*i'm happy to talk about work engagements for Q2 2025 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
 
 **intro**
 
-with over 12 years of experience in web development, i bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
+with over 13 years of experience in web development, i bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
 
 my journey began on the frontend during the twilight of jQuery and the dawn of technologies like Backbone, NodeJS and Grunt. today, i'm a versatile full-stack developer. i thrive on translating product requirements into technical solutions.
 
@@ -65,8 +65,6 @@ as a remote worker, i prioritize focused deep work and asynchronous communicatio
 my time commitment is tailored to each project's unique needs. for focused projects, i typically dedicate 2-3 man-days (8 hours each) spread across 3-4 days per week. i'm also available for smaller consulting-type engagements, which might involve only one or two calls per month. this flexibility allows me to accommodate various project scales and client needs, ensuring I can provide the right level of attention and expertise to each engagement.
 
 whether you're a startup looking to validate your idea or an established company needing to accelerate your development roadmap, i'm here to help turn your vision into reality.
-
-*i'm happy to talk about work engagements for Q4 2024 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
 
 #### previous employment
 
