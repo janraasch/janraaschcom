@@ -8,7 +8,11 @@ menu:
         weight: 50
 ---
 
-*i'm happy to talk about work engagements for Q2 2025 and beyond - [reach out via email](mailto:jan@janraasch.com) or [book a zoom call](https://calendly.com/jan-raasch/office-hours)!*
+*always happy to connect about potential collaborations or just share thoughts over coffee or tea. [email me](mailto:jan@janraasch.com) or [grab a slot on my calendar](https://calendly.com/jan-raasch/office-hours).*
+
+**contents**
+
+[intro](#intro) | [approach](#approach) | [core competencies](#core-competencies) | [project experience](#project-experience) | [working style](#working-style) | [logistics](#logistics) | [previous employment](#previous-employment) | [education](#education)
 
 **intro**
 
