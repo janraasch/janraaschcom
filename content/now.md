@@ -21,30 +21,21 @@ ready to take on new projects starting Q2 2025! whether you have a specific proj
 
 #### open source projects
 
-after taking a break, i'm excited to dive back into open source. still deciding which project to pick up first! here's what i was working on until january 2025:
-
 __ gloves __
 a photo sharing app for couples built with [Elixir](https://elixir-lang.org/) and [Phoenix LiveView](https://www.phoenixframework.org/).
 
-__ wichtel app __
-a web app for secret santa gift exchanges (called "wichteln" in german) built with [Ruby on Rails](https://rubyonrails.org/).
-
 __ bearfeed __
-a social feed for you and your close friends. In web arithmetic it is the sum of [FriendFeed](http://blog.friendfeed.com/), [Bear Blog](https://bearblog.dev/) & [Rails 8](https://rubyonrails.org/).
+a social feed for you and your close friends. In web arithmetic it is the sum of [FriendFeed](http://blog.friendfeed.com/), [Bear Blog](https://bearblog.dev/) & [Rails 8](https://rubyonrails.org/). currently thinking about rebuilding this with [Bolt](https://bolt.new/) and [NextJS](https://nextjs.org/).
+
+__ hugo-bearblog __
+
+the [project](https://github.com/janraasch/hugo-bearblog) is approaching 1000 stars on GitHub. i'm addressing some open issues to keep it in good shape :)
 
 i'm always happy to talk about these projects and get your feedback! [email me](mailto:jan@janraasch.com) to get in touch or [book a zoom call](https://calendly.com/jan-raasch/office-hours).
 
-#### bouldering & lead climbing
-
-i'm an avid boulderer and lead climber. i go to the gym 2-3 times a week. you can find me at [urban apes, Lübeck](https://www.urbanapes.de/luebeck/). my [fiancée](https://www.isabellmartins.de) usually joins me - it's one of our favorite ways to spend time together!
-
-#### yoga
-
-i'm also a yoga enthusiast. i practice daily, often following along with [Adriene Mishler](https://www.youtube.com/user/yogawithadriene) or [Tim Senesi](https://www.youtube.com/c/yogawithtim).
-
 #### reading
 
-always :)
+reading (& loving!) [stolen focus](https://stolenfocusbook.com/) by Johann Hari. next up: [indistractable](https://www.nirandfar.com/indistractable/) by Nir Eyal.
 
 #### music
 
