@@ -9,7 +9,7 @@ menu:
 draft: true
 ---
 
-**more**
+# more
 
 *projects* - open source projects - past & present
 *kofi* - buy me a coffee - tipp!

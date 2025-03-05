@@ -8,43 +8,45 @@ menu:
         weight: 50
 ---
 
+# hire me{.hide}
+
 *currently available for new projects starting Q2 2025 and would love to connect about potential collaborations or share thoughts over coffee or tea - feel free to [email me](mailto:jan@janraasch.com) or [grab a slot on my calendar](https://calendly.com/jan-raasch/office-hours).*
 
-**contents**
+## contents
 
 [intro](#intro) | [approach](#approach) | [core competencies](#core-competencies) | [project experience](#project-experience) | [working style](#working-style) | [logistics](#logistics) | [previous employment](#previous-employment) | [education](#education)
 
-**intro**
+## intro
 
 with over 13 years of experience in web development, i bring a unique blend of mathematical problem-solving skills and technical prowess to every project.
 
 my journey began on the frontend during the twilight of jQuery and the dawn of technologies like Backbone, NodeJS and Grunt. today, i'm a versatile full-stack developer. i thrive on translating product requirements into technical solutions.
 
-**approach**
+## approach
 
 my background in mathematics enables me to quickly adapt to new technologies and solve complex problems efficiently. i'm a strong advocate for functional programming and believe in building small prototypes to test ideas early in the development process.
 
-#### core competencies
+## core competencies
 
-__ backend development __
+### backend development
 10+ years of Ruby on Rails expertise
 
-__ frontend development __
+### frontend development
 proficient in React, TypeScript, and modern JavaScript frameworks like NextJS
 
-__ full-stack integration __
+### full-stack integration
 skilled in GraphQL for seamless frontend-backend integration
 
-__ emerging technologies __
+### emerging technologies
 recent focus on Elixir & Phoenix LiveView for cutting-edge full-stack development
 
-__ ai & mechanistic interpretability __
+### ai & mechanistic interpretability
 completed AI Alignment course by BlueDot Impact and was awarded *Best Interactive Deliverable* for final project - [click here][ai-safety-fundamentals-project-url] to view the project
 
-__ no/low-code & rapid prototyping __
+### no/low-code & rapid prototyping
 adept at leveraging no-code tools like Bubble.io, Airtable, and Retool for quick MVP development
 
-#### project experience
+## project experience
 
 from working with founders to build their first MVPs to delivering high-priority features for larger companies, i've successfully contributed to a diverse range of projects. my experience spans:
 
@@ -60,17 +62,17 @@ from working with founders to build their first MVPs to delivering high-priority
 
 my approach not only delivers immediate results but also enhances the capabilities of in-house teams, fostering long-term success and self-sufficiency.
 
-#### working style
+## working style
 
 as a remote worker, i prioritize focused deep work and asynchronous communication. however, i'm always ready to engage in valuable synchronous discussions when needed and enjoy participating in kick-off workshops or team meetings in person when possible.
 
-#### logistics
+## logistics
 
 my time commitment is tailored to each project's unique needs. for focused projects, i typically dedicate 2-3 man-days (8 hours each) spread across 3-4 days per week. i'm also available for smaller consulting-type engagements, which might involve only one or two calls per month. this flexibility allows me to accommodate various project scales and client needs, ensuring I can provide the right level of attention and expertise to each engagement.
 
 whether you're a startup looking to validate your idea or an established company needing to accelerate your development roadmap, i'm here to help turn your vision into reality.
 
-#### previous employment
+## previous employment
 
 [tevim.com](https://tevim.com)
 
