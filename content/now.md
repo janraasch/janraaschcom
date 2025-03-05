@@ -28,7 +28,6 @@ __ bearfeed __
 a social feed for you and your close friends. In web arithmetic it is the sum of [FriendFeed](http://blog.friendfeed.com/), [Bear Blog](https://bearblog.dev/) & [Rails 8](https://rubyonrails.org/). currently thinking about rebuilding this with [Bolt](https://bolt.new/) and [NextJS](https://nextjs.org/).
 
 __ hugo-bearblog __
-
 the [project](https://github.com/janraasch/hugo-bearblog) is approaching 1000 stars on GitHub. i'm addressing some open issues to keep it in good shape :)
 
 i'm always happy to talk about these projects and get your feedback! [email me](mailto:jan@janraasch.com) to get in touch or [book a zoom call](https://calendly.com/jan-raasch/office-hours).
