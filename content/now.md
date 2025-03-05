@@ -9,7 +9,7 @@ menu:
 tags: [freelancer, bluedot, bluedot impact, open source, elixir, phoenix, liveview, ruby on rails, ruby, web development, software development, consulting, bouldering, lead climbing, yoga, reading, music, lübeck, germany, gloves, wichteln, wichtel app, bearfeed, friendfeed, bear blog, rails 8, adriene mishler, tim senesi, tabby cat, tabby cats, tabbycats, tabbycats.club, one hacker way, one hacker way erik meijer, simple made easy, rich hickey, cal newport]
 ---
 
-*updated February 5th, 2025, from my home in Lübeck, Germany.*
+*updated March 5th, 2025, from my home in Lübeck, Germany.*
 
 **now**
 
