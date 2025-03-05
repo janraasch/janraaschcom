@@ -8,7 +8,7 @@ menu:
         weight: 50
 ---
 
-*always happy to connect about potential collaborations or just share thoughts over coffee or tea. [email me](mailto:jan@janraasch.com) or [grab a slot on my calendar](https://calendly.com/jan-raasch/office-hours).*
+*currently available for new projects starting Q2 2025 and would love to connect about potential collaborations or share thoughts over coffee or tea - feel free to [email me](mailto:jan@janraasch.com) or [grab a slot on my calendar](https://calendly.com/jan-raasch/office-hours).*
 
 **contents**
 

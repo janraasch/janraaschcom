@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2025-02-20
+date: 2025-03-05
 menu:
     main:
         title: Now
@@ -9,7 +9,7 @@ menu:
 tags: [freelancer, bluedot, bluedot impact, open source, elixir, phoenix, liveview, ruby on rails, ruby, web development, software development, consulting, bouldering, lead climbing, yoga, reading, music, lübeck, germany, gloves, wichteln, wichtel app, bearfeed, friendfeed, bear blog, rails 8, adriene mishler, tim senesi, tabby cat, tabby cats, tabbycats, tabbycats.club, one hacker way, one hacker way erik meijer, simple made easy, rich hickey, cal newport]
 ---
 
-*updated February 20th, 2025, from my home in Lübeck, Germany.*
+*updated February 5th, 2025, from my home in Lübeck, Germany.*
 
 **now**
 
@@ -17,7 +17,7 @@ this is a [now](https://nownownow.com/about) page, and if you have your own site
 
 #### freelance work
 
-ready to take on new projects! whether you have a specific project in mind or just want to explore possibilities, let's chat - you can book a [free 30-min call](https://calendly.com/jan-raasch/office-hours), check out my previous work on the [hire me](/hire-me) page or [send me an email](mailto:jan@janraasch.com) to get in touch.
+ready to take on new projects starting Q2 2025! whether you have a specific project in mind or just want to explore possibilities, let's chat - you can book a [free 30-min call](https://calendly.com/jan-raasch/office-hours), check out my previous work on the [hire me](/hire-me) page or [send me an email](mailto:jan@janraasch.com) to get in touch.
 
 #### open source projects
 
